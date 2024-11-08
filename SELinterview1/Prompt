@@ -1,0 +1,16 @@
+////////////////////////////////////////////////////////////////////////////////
+/// @brief   Parses the n'th argument out of a comma-delimited string of arguments
+///
+/// @param  [in]  input_str - a comma delimited string of parameters
+/// @param  [out] output_buffer - a pointer to a buffer of memory to place the output string
+/// @param  [in]  index - which parameter to parse from the input_str
+///
+/// @return None
+////////////////////////////////////////////////////////////////////////////////
+
+testcase = parse_parm("abc,123,4de5", output, 1);
+
+One of the interviewers advise to me was to fully commmit myself to one language despite the drawback of reduced flexiblity especially because I am new. 
+Their advise was to increase my depth of knowledge in one language and I think I will do that.
+
+I did this in python as a redemption arc for me.
